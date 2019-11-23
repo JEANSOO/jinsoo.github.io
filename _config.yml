@@ -3,8 +3,8 @@
 blog_theme: light # Or use dark
 name: Chalk
 paginate: 25
-url: http://jinsoo.github.io
-baseurl : 
+url: "http://jinsoo.github.io"
+baseurl : ""
 remote_theme : nielsenramon/chalk
 
 # Optional settings
